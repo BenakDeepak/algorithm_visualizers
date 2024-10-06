@@ -13,7 +13,7 @@ st.markdown(
     <style>
         .button {
             padding: 15px;  /* Increased padding for larger buttons */
-            background-color: black;
+            background-color: grey;
             color: white;
             border: none;
             cursor: pointer;
