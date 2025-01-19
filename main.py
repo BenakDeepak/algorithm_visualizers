@@ -6,7 +6,7 @@ st.markdown(
     <h1 style="text-align: center;">Algorithm Visualizers</h1>
     """, unsafe_allow_html=True
 )
-
+ 
 # Create a container for the buttons using Markdown with flexbox
 st.markdown(
     """
